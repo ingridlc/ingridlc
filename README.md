@@ -2,7 +2,8 @@
 
 **`Desenvolvedora Front-end`**
 
-Me chamo Ingrid Leite Costa, tenho 40 anos e moro em Belo Horizonte. Fiz o curso tecnólogo em Produção Multmídia, no Centro Universitário de Belo Horizonte, com conclusão em 2012.
+Meu nome é Ingrid Leite Costa, tenho 40 anos e moro em Belo Horizonte. Sou formada no curso superior de Tecnologia em Produção Multimídia pelo Centro Universitário de Belo Horizonte (UniBH), concluído em 2012.
+
 O que mais me motiva é ver um layout ganhar vida em uma interface funcional e agradável de usar. Sou apaixonada por CSS e por tudo o que ele permite criar, de layouts responsivos a animações e detalhes visuais que fazem diferença na experiência do usuário.
 
 <!-- <p align="left">
@@ -166,26 +167,3 @@ O que mais me motiva é ver um layout ganhar vida em uma interface funcional e a
 <br/>
 
 
-          
-          
-
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ingridlc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridlc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
